@@ -1,4 +1,5 @@
-package DefaultValuesInHashMap;
+package com.johnathanmarksmith.DefaultValuesInHashMap;
+
 
 
 import org.apache.commons.lang3.StringUtils;

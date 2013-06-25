@@ -48,4 +48,15 @@ You need to add this to your POM
               <version>3.0</version>
           </dependency>
 
+
+
+checkout the project from github.
+
+    git clone git@github.com:JohnathanMarkSmith/DefaultValuesInHashMap.git
+    cd DefaultValuesInHashMap
+    mvn package
+    cd target
+    java -jar DefaultValuesInHashMap.jar
+
+
 If you have any questions or comments please email me at john@johnathanmarksmith.com or checkout my web site http://JohnathanMarkSmith.com
